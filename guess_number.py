@@ -1,3 +1,5 @@
+"""Module providing a function printing python version."""
+
 # Импорт функции получения случайных чисел
 # из модуля random.
 from random import randint
