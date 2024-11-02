@@ -1,0 +1,4 @@
+# Automatically created by mypy
+*.py
+*.txt
+*.json
